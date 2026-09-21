@@ -9,7 +9,8 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 <img width="1433" height="737" alt="Screenshot 2026-09-20 210132" src="https://github.com/user-attachments/assets/19a81f8f-e97c-4142-8f49-100fbf22f398" />
-
+## Project File
+https://docs.google.com/spreadsheets/d/1-qTpvrSpeT-HcCq-GhLOQX1UqaRnjOnG/edit?usp=drive_link&ouid=104468940255882372981&rtpof=true&sd=true
 # HR Employee Analysis Dashboard 📊
 
 ## Project Overview
