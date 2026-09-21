@@ -10,6 +10,85 @@
 -->
 <img width="1433" height="737" alt="Screenshot 2026-09-20 210132" src="https://github.com/user-attachments/assets/19a81f8f-e97c-4142-8f49-100fbf22f398" />
 
+# HR Employee Analysis Dashboard 📊
+
+## Project Overview
+
+The **HR Employee Analysis Dashboard** is an Excel-based HR analytics project designed to analyze employee data, workforce trends, and employee attrition patterns.
+
+The project transforms employee data into an interactive dashboard using **Pivot Tables, Pivot Charts, KPIs, Slicers, and Excel formulas**.
+
+## Business Problem
+
+HR departments need to understand workforce patterns and employee attrition in order to support effective workforce planning and retention analysis.
+
+This project analyzes employee demographics, departments, job roles, compensation, satisfaction, overtime, experience, and tenure to identify important patterns in the HR dataset.
+
+## Objectives
+
+* Analyze employee workforce data.
+* Measure employee attrition.
+* Analyze attrition by department and job role.
+* Study overtime and employee attrition patterns.
+* Analyze employee satisfaction and work-life balance.
+* Analyze salary, experience, and tenure.
+* Create an interactive HR dashboard.
+* Generate data-driven business insights.
+
+## Key Analysis Areas
+
+* Employee Attrition
+* Department Analysis
+* Job Role Analysis
+* Age Group Analysis
+* Gender Analysis
+* Salary / Monthly Income
+* Overtime Analysis
+* Job Satisfaction
+* Work-Life Balance
+* Employee Experience
+* Years at Company
+* Performance Rating
+
+## Tools & Skills
+
+**Microsoft Excel**
+
+* Data Cleaning
+* Data Analysis
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* KPI Cards
+* Excel Formulas
+* Data Visualization
+* Dashboard Design
+* Business Insights
+
+## Dashboard Structure
+
+1. Home Page
+2. HR Dashboard
+3. Insights
+4. Employee Details
+5. KPI Charts
+6. Pivot Tables
+7. HR Dataset
+8. Raw Data
+
+## Business Value
+
+The dashboard provides HR-focused views of employee data and helps users explore workforce composition, attrition patterns, satisfaction, compensation, and employee tenure.
+
+It can support HR teams in identifying areas that require further investigation and data-driven workforce analysis.
+
+## Project Outcome
+
+This project demonstrates practical skills in **Excel, HR Analytics, Data Visualization, Dashboard Development, and Business Intelligence**.
+
+## Note
+
+The analysis describes patterns within the available dataset. Observed relationships should not automatically be interpreted as causal relationships.
 
 # Code with GitHub Copilot
 
